@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(int argc, const char** argv){
-    std:: cout << "git test" << std::endl;
+    std:: cout << "Hello World" << std::endl;
     return 0;
 }
